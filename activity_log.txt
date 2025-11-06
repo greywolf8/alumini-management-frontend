@@ -1,1 +1,2 @@
 Add comment for clarity — 2025-11-06 17:20:58
+Minor style cleanup — 2025-11-06 17:21:19
